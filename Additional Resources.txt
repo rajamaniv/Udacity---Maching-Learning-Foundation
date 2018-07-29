@@ -1,0 +1,4 @@
+https://www.python-course.eu/python3_course.php
+
+Been referencing the Python documentation and Stack overflow for syntax validations and graphs.
+
